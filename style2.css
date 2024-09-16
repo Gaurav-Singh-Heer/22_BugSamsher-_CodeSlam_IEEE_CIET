@@ -87,6 +87,7 @@ nav ul.nav-links li a:hover {
     gap: 2rem;
     font-family: sans-serif;
     color: #aeaeae;
+    letter-spacing: 2px;
 }
 
 .hero-text h1 {
