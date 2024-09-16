@@ -1,0 +1,99 @@
+.outer-div {
+    display: flex;
+    width: 100%;
+    padding: 5rem;
+}
+
+.inner-div1,
+.inner-div2 {
+    width: 50%;
+    display: flex;
+}
+
+.inner-div1 {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-sub-div {
+    width: 50%;
+}
+
+#Download-sec-img {
+    height: 400px;
+    width: 400px;
+}
+
+.download_now button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+    margin-bottom: 10%;
+}
+.readmore button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+    margin-bottom: 10%;
+}
+
+
+
+#download_now {
+    padding: 2px;
+}
+
+.download_now h2 {
+    width: 504px;
+    height: 88px;
+    font-size: 34px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    font-weight: 700;
+    font-family: "Open Sans";
+    margin: 0%;
+}
+
+.download_now p {
+    margin: 5px;
+    width: 428px;
+    height: 97px;
+    font-size: 17px;
+    color: #4d4d4d;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+
+#inner-about-img{
+    height: 500px;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    /* border-radius: 50%; */
+}
+
+.about{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}

@@ -1,0 +1,356 @@
+.outer-div {
+    display: flex;
+    width: 100%;
+    padding: 5rem;
+}
+
+.inner-div1,
+.inner-div2 {
+    width: 50%;
+    display: flex;
+}
+
+.inner-div1 {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200%;
+}
+
+.inner-sub-div {
+    width: 50%;
+}
+
+#Download-sec-img {
+    height: 400px;
+    width: 400px;
+}
+
+.subscribe button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+    margin-bottom: 10%;
+}
+.readmore button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+    margin-bottom: 10%;
+}
+
+
+
+#subscribe {
+    padding: 2px;
+}
+
+.subscribe h2 {
+    width: 504px;
+    height: 88px;
+    font-size: 34px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    font-weight: 700;
+    font-family: "Open Sans";
+    margin: 0%;
+}
+
+.subscribe p {
+    margin: 5px;
+    width: 428px;
+    height: 97px;
+    font-size: 17px;
+    color: #4d4d4d;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+
+#inner-about-img{
+    height: 500px;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    /* border-radius: 50%; */
+}
+
+.about{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    padding: 5%;
+    color: aliceblue;
+}
+
+.subs-form{
+    background-color: #4d4d4d;
+    width: 70%;
+    height: 100%;
+}
+
+.line1{
+    display: flex;
+}
+
+.section5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+}
+.section7 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+}
+
+.desc-5 {
+    width: 50%;
+    /* margin: 0; */
+    margin-bottom: 4%;
+}
+
+.desc-5 p {
+    width: 456px;
+    height: 58px;
+    font-size: 17px;
+    color: #4d4d4d;
+    font-weight: 400;
+    font-family: "Open Sans";
+    text-align: center;
+}
+.desc-7 p {
+    width: 456px;
+    height: 58px;
+    font-size: 17px;
+    color: #4d4d4d;
+    font-weight: 400;
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+.our-work h2 {
+    margin: 10px;
+    font-size: 42px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    font-weight: 700;
+    font-family: "Open Sans";
+    text-align: center;
+    margin: 0;
+}
+.contact h2 {
+    margin: 10px;
+    font-size: 42px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    font-weight: 700;
+    font-family: "Open Sans";
+    text-align: center;
+    margin: 0;
+}
+
+.download_now button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 500;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+}
+.contact-btn button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 500;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+    margin: 10% 0;
+}
+
+.download_now {
+    margin: 3%;
+}
+
+.outer-div {
+    display: flex;
+    width: 100%;
+    padding: 2rem;
+}
+
+.inner-div1,
+.inner-div2 {
+    width: 50%;
+    display: flex;
+}
+
+.inner-div1 {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-sub-div {
+    width: 50%;
+}
+
+#Download-sec-img {
+    height: 400px;
+    width: 400px;
+}
+
+.download_now button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+    margin-bottom: 10%;
+}
+.readmore button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+    margin-bottom: 10%;
+}
+
+
+
+#download_now {
+    padding: 2px;
+}
+
+.download_now h2 {
+    width: 504px;
+    height: 88px;
+    font-size: 34px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    font-weight: 700;
+    font-family: "Open Sans";
+    margin: 0%;
+}
+
+.download_now p {
+    margin: 5px;
+    width: 428px;
+    height: 97px;
+    font-size: 17px;
+    color: #4d4d4d;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+
+#inner-about-img{
+    height: 500px;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    /* border-radius: 50%; */
+}
+
+.about{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+/* gaurav */
+footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes slideIn {
+    0% { transform: translateX(-100px); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    .hero-section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero-image img {
+        display: none;
+    }
+
+    .outer-div {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product-item {
+        width: 100%;
+    }
+}

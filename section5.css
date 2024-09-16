@@ -1,0 +1,54 @@
+.section5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+}
+
+.desc-5 {
+    width: 50%;
+    /* margin: 0; */
+    margin-bottom: 4%;
+}
+
+.desc-5 p {
+    width: 456px;
+    height: 58px;
+    font-size: 17px;
+    color: #4d4d4d;
+    font-weight: 400;
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+.our-work h2 {
+    margin: 10px;
+    font-size: 42px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    font-weight: 700;
+    font-family: "Open Sans";
+    text-align: center;
+    margin: 0;
+}
+
+.download_now button {
+    border: none;
+    background-color: #4d4d4d;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 500;
+    /* font-family: "Open Sans"; */
+    text-align: center;
+    padding: 5px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 2px;
+}
+
+.download_now {
+    margin: 3%;
+}
